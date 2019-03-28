@@ -1,0 +1,67 @@
+﻿<Window x:Class="AlgorithmTrainer.View.AboutWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AlgorithmTrainer.View"
+        mc:Ignorable="d"
+        Background="{StaticResource Background}"
+        DataContext="{Binding Source={StaticResource mainViewModelLocator}, Path=AboutWindowViewModel}"
+        Title="About" MinHeight="375" MinWidth="650" MaxHeight="375" MaxWidth="650"  Icon="/AlgorithmTrainer;component/images/RubiksIcon.png" WindowStartupLocation="CenterScreen">
+
+    <Grid>
+        <TabControl Margin="10" BorderBrush="Gainsboro" Style="{StaticResource TabControl}" >
+            <TabItem Header="Developer" Style="{StaticResource TabControlItem}">
+                <Border BorderBrush="{x:Null}" >
+                    <TextBlock Style="{StaticResource TextBlockAbout}" >
+                        This program was developed by <Bold>Axel Pauwels</Bold> as a school project for Thomas More.<LineBreak/>
+                        Currently I am updating this program from a "OLL Trainer" to a "Cubing Trainer", <LineBreak/>
+                        which will have a PLL and normal Trainer as well.<LineBreak/>
+                        <LineBreak/>
+                        Any problems can be reported to AxelPauwels@gmail.com. <LineBreak/>
+                       <LineBreak/>
+                        Enjoy the trainer!
+                    </TextBlock>
+                </Border>
+            </TabItem>
+            
+            <TabItem Header="Trainer" Style="{StaticResource TabControlItem}">
+                <Border BorderBrush="{x:Null}" >
+                    <TextBlock Style="{StaticResource TextBlockAbout}" >
+                        <Bold>Start/Stop</Bold><LineBreak/>
+                        When the program starts, you can press immediately spacebar to start the timer.<LineBreak/>
+                        When you selected other options, you have to start once with a mouse click.<LineBreak/>
+                        <LineBreak/>
+                        <Bold>Active Algorithms</Bold><LineBreak/>
+                        Only active Algorithms will be randomly generated.<LineBreak/>
+                        You can activate/deactive Algorithms by clicking on the image.<LineBreak/>
+                        The "Reset Active" button will set all Algorithms back to active.<LineBreak/>
+                        <LineBreak/>
+                        <Bold>Edit</Bold><LineBreak/>
+                        You can edit/add/remove all Algorithms, Categories and Results.<LineBreak/>
+                        <LineBreak/>
+                        <Bold>Images</Bold><LineBreak/>
+                        You can rotate the images in windows explorer if you want.<LineBreak/>
+                        You can replace backgrounds with your own.<LineBreak/>
+                        But make sure if you make changes that the name stays the same.
+                    </TextBlock>
+                </Border>
+            </TabItem>
+            
+            <TabItem Header="Version" Style="{StaticResource TabControlItem}">
+                <Border BorderBrush="{x:Null}" >
+                    <TextBlock Style="{StaticResource TextBlockAbout}" >
+                        <Bold>Version 1.1</Bold><LineBreak/>
+                        <LineBreak/><LineBreak/><LineBreak/>
+                        <Bold>Version 1.2 feautures</Bold><LineBreak/>
+                        A loop-timer (The timer will restart automatically after "stop") <LineBreak/>
+                        Choosing own sounds<LineBreak/>
+                        Switch from OLL Trainer to PLL or Normal Trainer<LineBreak/>
+                        Generate a report (To export your results)<LineBreak/>
+                        Save and Load your settings (Background, Sound, ...)<LineBreak/>
+                    </TextBlock>
+                </Border>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

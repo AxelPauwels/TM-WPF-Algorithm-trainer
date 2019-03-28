@@ -1,0 +1,62 @@
+﻿<Window x:Class="AlgorithmTrainer.View.AlgorithmDetailWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AlgorithmTrainer.View"
+        xmlns:v="clr-namespace:AlgorithmTrainer.Validation"
+        mc:Ignorable="d"
+        Background="{StaticResource Background}"
+        DataContext="{Binding Source={StaticResource mainViewModelLocator}, Path=AlgorithmDetailWindowViewModel}"
+        Title="{Binding WindowTitle}" MinHeight="375" MinWidth="650" MaxHeight="375" MaxWidth="650" Icon="/AlgorithmTrainer;component/images/RubiksIcon.png" WindowStartupLocation="CenterScreen">
+
+    <Grid Margin="50">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" ></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto" ></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto" ></RowDefinition>
+            <RowDefinition Height="20"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="150"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Grid.Row="0" Text="OLL Id:" Visibility="Collapsed"/>
+        <TextBlock Grid.Row="1" Text="Guide Number:" Style="{StaticResource TextBlockLarge}" />
+        <TextBlock Grid.Row="2" Text="Solution:" Style="{StaticResource TextBlockLarge}" />
+        <TextBlock Grid.Row="3" Text="Active:" Style="{StaticResource TextBlockLarge}" />
+        <TextBlock Grid.Row="4" Text="Catergory:" Style="{StaticResource TextBlockLarge}" />
+        <TextBlock Grid.Row="5" Text="Upload image:" Style="{StaticResource TextBlockLarge}" Visibility="{Binding ShowLoadImage}" />
+
+        <TextBlock Grid.Row="0" Grid.Column="1" Text="{Binding SelectedAlgorithm.Id}" Visibility="Collapsed"/>
+        <TextBox Name="Nummer" Grid.Row="1" Grid.Column="1" Style="{StaticResource TextBoxSmall}" >
+            <TextBox.Text>
+                <Binding Path="SelectedAlgorithm.Nummer" UpdateSourceTrigger="PropertyChanged" Mode="TwoWay">
+                    <Binding.ValidationRules>
+                        <v:MyValidation ValidationStep="UpdatedValue"></v:MyValidation>
+                    </Binding.ValidationRules>
+                </Binding>
+            </TextBox.Text>
+        </TextBox>
+        <TextBox Grid.Row="2" Grid.Column="1" Text="{Binding SelectedAlgorithm.AlgorithmSolution}" Style="{StaticResource TextBoxSmall}" />
+        <ComboBox Grid.Row="3" Grid.Column="1" Style="{StaticResource ComboBox}" >
+            <ComboBoxItem Content="True" IsSelected="{Binding IsSelectedTrue}" Style="{StaticResource ComboBoxItem}"/>
+            <ComboBoxItem Content="False" IsSelected="{Binding IsSelectedFalse}"  Style="{StaticResource ComboBoxItem}"/>
+        </ComboBox>
+        <ComboBox Grid.Row="4"  Grid.Column="1" ItemsSource="{Binding Categories}" 
+                SelectedItem="{Binding SelectedCategorie}"
+                ItemTemplate="{StaticResource CategoriesComboboxTemplate}" ItemContainerStyle="{StaticResource ComboBoxItem}" Style="{StaticResource ComboBox}" />
+        <Button Grid.Row="5" Grid.Column="1" Content="Browse" Command="{Binding LoadImageCommand}" Style="{StaticResource ButtonSmall}" Margin="0,0,0,0" HorizontalAlignment="Left" Visibility="{Binding ShowLoadImage}" />
+        <StackPanel Orientation="Horizontal" Grid.Row="7" Grid.ColumnSpan="2">
+            <Button Content="Save"  Command="{Binding UpdateCommand}" Style="{StaticResource ButtonSmall}" />
+            <Button Content="Delete"  Command="{Binding DeleteCommand}" Style="{StaticResource ButtonSmall}" IsEnabled="{Binding DeleteButtonEnabled}"/>
+            <TextBlock Text="{Binding ValidationMessage}" Foreground="DarkRed" Margin="10,20,10,0"/>
+        </StackPanel>
+
+    </Grid>
+</Window>

@@ -1,0 +1,167 @@
+C:\Users\Pauwe\documents\visual studio 2015\Projects\AlgorithmTrainer\AlgorithmTrainer\bin\Debug\images\backgrounds\background1.jpg
+C:\Users\Pauwe\documents\visual studio 2015\Projects\AlgorithmTrainer\AlgorithmTrainer\bin\Debug\images\backgrounds\background2.jpg
+C:\Users\Pauwe\documents\visual studio 2015\Projects\AlgorithmTrainer\AlgorithmTrainer\bin\Debug\images\backgrounds\background3.jpg
+C:\Users\Pauwe\documents\visual studio 2015\Projects\AlgorithmTrainer\AlgorithmTrainer\bin\Debug\images\backgrounds\background4.jpg
+C:\Users\Pauwe\documents\visual studio 2015\Projects\AlgorithmTrainer\AlgorithmTrainer\bin\Debug\images\backgrounds\background5.jpg
+C:\Users\Pauwe\documents\visual studio 2015\Projects\AlgorithmTrainer\AlgorithmTrainer\bin\Debug\images\backgrounds\background7.jpg
+C:\Users\Pauwe\documents\visual studio 2015\Projects\AlgorithmTrainer\AlgorithmTrainer\bin\Debug\images\backgrounds\background8.jpg
+C:\Users\Pauwe\documents\visual studio 2015\Projects\AlgorithmTrainer\AlgorithmTrainer\bin\Debug\AlgorithmTrainer.exe.config
+C:\Users\Pauwe\documents\visual studio 2015\Projects\AlgorithmTrainer\AlgorithmTrainer\bin\Debug\AlgorithmTrainer.exe
+C:\Users\Pauwe\documents\visual studio 2015\Projects\AlgorithmTrainer\AlgorithmTrainer\bin\Debug\AlgorithmTrainer.pdb
+C:\Users\Pauwe\documents\visual studio 2015\Projects\AlgorithmTrainer\AlgorithmTrainer\bin\Debug\Dapper.dll
+C:\Users\Pauwe\documents\visual studio 2015\Projects\AlgorithmTrainer\AlgorithmTrainer\bin\Debug\Dapper.xml
+C:\Users\Pauwe\documents\visual studio 2015\Projects\AlgorithmTrainer\AlgorithmTrainer\obj\Debug\View\MainWindow.g.cs
+C:\Users\Pauwe\documents\visual studio 2015\Projects\AlgorithmTrainer\AlgorithmTrainer\obj\Debug\App.g.cs
+C:\Users\Pauwe\documents\visual studio 2015\Projects\AlgorithmTrainer\AlgorithmTrainer\obj\Debug\AlgorithmTrainer_Content.g.cs
+C:\Users\Pauwe\documents\visual studio 2015\Projects\AlgorithmTrainer\AlgorithmTrainer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Pauwe\documents\visual studio 2015\Projects\AlgorithmTrainer\AlgorithmTrainer\obj\Debug\AlgorithmTrainer_MarkupCompile.cache
+C:\Users\Pauwe\documents\visual studio 2015\Projects\AlgorithmTrainer\AlgorithmTrainer\obj\Debug\AlgorithmTrainer_MarkupCompile.lref
+C:\Users\Pauwe\documents\visual studio 2015\Projects\AlgorithmTrainer\AlgorithmTrainer\obj\Debug\App.baml
+C:\Users\Pauwe\documents\visual studio 2015\Projects\AlgorithmTrainer\AlgorithmTrainer\obj\Debug\View\MainWindow.baml
+C:\Users\Pauwe\documents\visual studio 2015\Projects\AlgorithmTrainer\AlgorithmTrainer\obj\Debug\AlgorithmTrainer.g.resources
+C:\Users\Pauwe\documents\visual studio 2015\Projects\AlgorithmTrainer\AlgorithmTrainer\obj\Debug\AlgorithmTrainer.Properties.Resources.resources
+C:\Users\Pauwe\documents\visual studio 2015\Projects\AlgorithmTrainer\AlgorithmTrainer\obj\Debug\AlgorithmTrainer.csproj.GenerateResource.Cache
+C:\Users\Pauwe\documents\visual studio 2015\Projects\AlgorithmTrainer\AlgorithmTrainer\obj\Debug\AlgorithmTrainer.exe
+C:\Users\Pauwe\documents\visual studio 2015\Projects\AlgorithmTrainer\AlgorithmTrainer\obj\Debug\AlgorithmTrainer.pdb
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer\AlgorithmTrainer\bin\Debug\images\backgrounds\background9.jpg
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer\AlgorithmTrainer\bin\Debug\sounds\sound.wav
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer\AlgorithmTrainer\obj\Debug\View\AlgorithmWindow.g.cs
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer\AlgorithmTrainer\obj\Debug\View\AlgorithmWindow.baml
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer\AlgorithmTrainer\obj\Debug\View\AlgorithmDetailWindow.g.cs
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer\AlgorithmTrainer\obj\Debug\View\AlgorithmDetailWindow.baml
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer\AlgorithmTrainer\obj\Debug\View\CategorieDetailWindow.g.cs
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer\AlgorithmTrainer\obj\Debug\View\CategorieWindow.g.cs
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer\AlgorithmTrainer\obj\Debug\View\CategorieDetailWindow.baml
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer\AlgorithmTrainer\obj\Debug\View\CategorieWindow.baml
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer\AlgorithmTrainer\obj\Debug\View\ResultaatWindow.g.cs
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer\AlgorithmTrainer\obj\Debug\View\ResultaatWindow.baml
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer\AlgorithmTrainer\obj\Debug\View\AboutWindow.g.cs
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer\AlgorithmTrainer\obj\Debug\View\AboutWindow.baml
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer\AlgorithmTrainer\obj\Debug\MyDictionary.baml
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer\AlgorithmTrainer\bin\Debug\images\backgrounds\background6.jpg
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer - kopie (3)\AlgorithmTrainer\bin\Debug\images\backgrounds\background4.jpg
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer - kopie (3)\AlgorithmTrainer\bin\Debug\images\backgrounds\background6.jpg
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer - kopie (3)\AlgorithmTrainer\bin\Debug\images\backgrounds\background7.jpg
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer - kopie (3)\AlgorithmTrainer\bin\Debug\sounds\sound.wav
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer - kopie (3)\AlgorithmTrainer\bin\Debug\images\backgrounds\background9.jpg
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer - kopie (3)\AlgorithmTrainer\bin\Debug\images\backgrounds\background1.jpg
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer - kopie (3)\AlgorithmTrainer\bin\Debug\images\backgrounds\background2.jpg
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer - kopie (3)\AlgorithmTrainer\bin\Debug\images\backgrounds\background3.jpg
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer - kopie (3)\AlgorithmTrainer\bin\Debug\images\backgrounds\background5.jpg
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer - kopie (3)\AlgorithmTrainer\bin\Debug\images\backgrounds\background8.jpg
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer - kopie (3)\AlgorithmTrainer\bin\Debug\AlgorithmTrainer.exe.config
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer - kopie (3)\AlgorithmTrainer\bin\Debug\AlgorithmTrainer.exe
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer - kopie (3)\AlgorithmTrainer\bin\Debug\AlgorithmTrainer.pdb
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer - kopie (3)\AlgorithmTrainer\bin\Debug\Dapper.dll
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer - kopie (3)\AlgorithmTrainer\bin\Debug\Dapper.xml
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer - kopie (3)\AlgorithmTrainer\obj\Debug\AlgorithmTrainer.csprojResolveAssemblyReference.cache
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer - kopie (3)\AlgorithmTrainer\obj\Debug\View\AboutWindow.g.cs
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer - kopie (3)\AlgorithmTrainer\obj\Debug\View\AlgorithmDetailWindow.g.cs
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer - kopie (3)\AlgorithmTrainer\obj\Debug\View\AlgorithmWindow.g.cs
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer - kopie (3)\AlgorithmTrainer\obj\Debug\View\CategorieDetailWindow.g.cs
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer - kopie (3)\AlgorithmTrainer\obj\Debug\View\CategorieWindow.g.cs
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer - kopie (3)\AlgorithmTrainer\obj\Debug\View\MainWindow.g.cs
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer - kopie (3)\AlgorithmTrainer\obj\Debug\View\ResultaatWindow.g.cs
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer - kopie (3)\AlgorithmTrainer\obj\Debug\App.g.cs
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer - kopie (3)\AlgorithmTrainer\obj\Debug\AlgorithmTrainer_Content.g.cs
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer - kopie (3)\AlgorithmTrainer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer - kopie (3)\AlgorithmTrainer\obj\Debug\AlgorithmTrainer_MarkupCompile.cache
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer - kopie (3)\AlgorithmTrainer\obj\Debug\AlgorithmTrainer_MarkupCompile.lref
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer - kopie (3)\AlgorithmTrainer\obj\Debug\App.baml
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer - kopie (3)\AlgorithmTrainer\obj\Debug\MyDictionary.baml
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer - kopie (3)\AlgorithmTrainer\obj\Debug\View\AboutWindow.baml
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer - kopie (3)\AlgorithmTrainer\obj\Debug\View\AlgorithmDetailWindow.baml
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer - kopie (3)\AlgorithmTrainer\obj\Debug\View\AlgorithmWindow.baml
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer - kopie (3)\AlgorithmTrainer\obj\Debug\View\CategorieDetailWindow.baml
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer - kopie (3)\AlgorithmTrainer\obj\Debug\View\CategorieWindow.baml
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer - kopie (3)\AlgorithmTrainer\obj\Debug\View\MainWindow.baml
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer - kopie (3)\AlgorithmTrainer\obj\Debug\View\ResultaatWindow.baml
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer - kopie (3)\AlgorithmTrainer\obj\Debug\AlgorithmTrainer.g.resources
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer - kopie (3)\AlgorithmTrainer\obj\Debug\AlgorithmTrainer.Properties.Resources.resources
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer - kopie (3)\AlgorithmTrainer\obj\Debug\AlgorithmTrainer.csproj.GenerateResource.Cache
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer - kopie (3)\AlgorithmTrainer\obj\Debug\AlgorithmTrainer.exe
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer - kopie (3)\AlgorithmTrainer\obj\Debug\AlgorithmTrainer.pdb
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer OK\AlgorithmTrainer\bin\Debug\AlgorithmTrainer.exe.config
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer OK\AlgorithmTrainer\obj\Debug\AlgorithmTrainer.exe
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer OK\AlgorithmTrainer\obj\Debug\AlgorithmTrainer.pdb
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer OK\AlgorithmTrainer\obj\Debug\View\AboutWindow.g.cs
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer OK\AlgorithmTrainer\obj\Debug\View\AlgorithmDetailWindow.g.cs
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer OK\AlgorithmTrainer\obj\Debug\View\AlgorithmWindow.g.cs
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer OK\AlgorithmTrainer\obj\Debug\View\CategorieDetailWindow.g.cs
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer OK\AlgorithmTrainer\obj\Debug\View\CategorieWindow.g.cs
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer OK\AlgorithmTrainer\obj\Debug\View\ResultaatWindow.g.cs
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer OK\AlgorithmTrainer\obj\Debug\App.g.cs
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer OK\AlgorithmTrainer\obj\Debug\AlgorithmTrainer_Content.g.cs
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer OK\AlgorithmTrainer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer OK\AlgorithmTrainer\obj\Debug\AlgorithmTrainer_MarkupCompile.cache
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer OK\AlgorithmTrainer\obj\Debug\AlgorithmTrainer_MarkupCompile.lref
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer OK\AlgorithmTrainer\bin\Debug\images\backgrounds\background4.jpg
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer OK\AlgorithmTrainer\bin\Debug\images\backgrounds\background6.jpg
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer OK\AlgorithmTrainer\bin\Debug\images\backgrounds\background7.jpg
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer OK\AlgorithmTrainer\bin\Debug\sounds\sound.wav
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer OK\AlgorithmTrainer\bin\Debug\images\backgrounds\background9.jpg
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer OK\AlgorithmTrainer\bin\Debug\images\backgrounds\background1.jpg
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer OK\AlgorithmTrainer\bin\Debug\images\backgrounds\background2.jpg
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer OK\AlgorithmTrainer\bin\Debug\images\backgrounds\background3.jpg
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer OK\AlgorithmTrainer\bin\Debug\images\backgrounds\background5.jpg
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer OK\AlgorithmTrainer\bin\Debug\images\backgrounds\background8.jpg
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer OK\AlgorithmTrainer\bin\Debug\AlgorithmTrainer.exe
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer OK\AlgorithmTrainer\bin\Debug\AlgorithmTrainer.pdb
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer OK\AlgorithmTrainer\bin\Debug\Dapper.dll
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer OK\AlgorithmTrainer\bin\Debug\Dapper.xml
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer OK\AlgorithmTrainer\obj\Debug\View\MainWindow.g.cs
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer OK\AlgorithmTrainer\obj\Debug\App.baml
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer OK\AlgorithmTrainer\obj\Debug\MyDictionary.baml
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer OK\AlgorithmTrainer\obj\Debug\View\AboutWindow.baml
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer OK\AlgorithmTrainer\obj\Debug\View\AlgorithmDetailWindow.baml
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer OK\AlgorithmTrainer\obj\Debug\View\AlgorithmWindow.baml
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer OK\AlgorithmTrainer\obj\Debug\View\CategorieDetailWindow.baml
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer OK\AlgorithmTrainer\obj\Debug\View\CategorieWindow.baml
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer OK\AlgorithmTrainer\obj\Debug\View\MainWindow.baml
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer OK\AlgorithmTrainer\obj\Debug\View\ResultaatWindow.baml
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer OK\AlgorithmTrainer\obj\Debug\AlgorithmTrainer.g.resources
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer OK\AlgorithmTrainer\obj\Debug\AlgorithmTrainer.Properties.Resources.resources
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer OK\AlgorithmTrainer\obj\Debug\AlgorithmTrainer.csproj.GenerateResource.Cache
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainer OK\AlgorithmTrainer\obj\Debug\AlgorithmTrainer.csprojResolveAssemblyReference.cache
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainerOK\AlgorithmTrainer\bin\Debug\AlgorithmTrainer.exe.config
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainerOK\AlgorithmTrainer\obj\Debug\AlgorithmTrainer.exe
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainerOK\AlgorithmTrainer\obj\Debug\AlgorithmTrainer.pdb
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainerOK\AlgorithmTrainer\bin\Debug\images\backgrounds\background4.jpg
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainerOK\AlgorithmTrainer\bin\Debug\images\backgrounds\background6.jpg
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainerOK\AlgorithmTrainer\bin\Debug\images\backgrounds\background7.jpg
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainerOK\AlgorithmTrainer\bin\Debug\sounds\sound.wav
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainerOK\AlgorithmTrainer\bin\Debug\images\backgrounds\background9.jpg
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainerOK\AlgorithmTrainer\bin\Debug\images\backgrounds\background1.jpg
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainerOK\AlgorithmTrainer\bin\Debug\images\backgrounds\background2.jpg
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainerOK\AlgorithmTrainer\bin\Debug\images\backgrounds\background3.jpg
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainerOK\AlgorithmTrainer\bin\Debug\images\backgrounds\background5.jpg
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainerOK\AlgorithmTrainer\bin\Debug\images\backgrounds\background8.jpg
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainerOK\AlgorithmTrainer\bin\Debug\AlgorithmTrainer.exe
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainerOK\AlgorithmTrainer\bin\Debug\AlgorithmTrainer.pdb
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainerOK\AlgorithmTrainer\bin\Debug\Dapper.dll
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainerOK\AlgorithmTrainer\bin\Debug\Dapper.xml
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainerOK\AlgorithmTrainer\obj\Debug\View\AboutWindow.g.cs
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainerOK\AlgorithmTrainer\obj\Debug\View\AlgorithmDetailWindow.g.cs
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainerOK\AlgorithmTrainer\obj\Debug\View\AlgorithmWindow.g.cs
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainerOK\AlgorithmTrainer\obj\Debug\View\CategorieDetailWindow.g.cs
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainerOK\AlgorithmTrainer\obj\Debug\View\CategorieWindow.g.cs
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainerOK\AlgorithmTrainer\obj\Debug\View\MainWindow.g.cs
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainerOK\AlgorithmTrainer\obj\Debug\View\ResultaatWindow.g.cs
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainerOK\AlgorithmTrainer\obj\Debug\App.g.cs
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainerOK\AlgorithmTrainer\obj\Debug\AlgorithmTrainer_Content.g.cs
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainerOK\AlgorithmTrainer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainerOK\AlgorithmTrainer\obj\Debug\AlgorithmTrainer_MarkupCompile.cache
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainerOK\AlgorithmTrainer\obj\Debug\AlgorithmTrainer_MarkupCompile.lref
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainerOK\AlgorithmTrainer\obj\Debug\App.baml
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainerOK\AlgorithmTrainer\obj\Debug\MyDictionary.baml
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainerOK\AlgorithmTrainer\obj\Debug\View\AboutWindow.baml
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainerOK\AlgorithmTrainer\obj\Debug\View\AlgorithmDetailWindow.baml
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainerOK\AlgorithmTrainer\obj\Debug\View\AlgorithmWindow.baml
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainerOK\AlgorithmTrainer\obj\Debug\View\CategorieDetailWindow.baml
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainerOK\AlgorithmTrainer\obj\Debug\View\CategorieWindow.baml
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainerOK\AlgorithmTrainer\obj\Debug\View\MainWindow.baml
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainerOK\AlgorithmTrainer\obj\Debug\View\ResultaatWindow.baml
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainerOK\AlgorithmTrainer\obj\Debug\AlgorithmTrainer.g.resources
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainerOK\AlgorithmTrainer\obj\Debug\AlgorithmTrainer.Properties.Resources.resources
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainerOK\AlgorithmTrainer\obj\Debug\AlgorithmTrainer.csproj.GenerateResource.Cache
+C:\Users\Pauwe\Documents\Visual Studio 2015\Projects\AlgorithmTrainerOK\AlgorithmTrainer\obj\Debug\AlgorithmTrainer.csprojResolveAssemblyReference.cache

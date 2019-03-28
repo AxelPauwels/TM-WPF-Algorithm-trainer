@@ -1,0 +1,106 @@
+﻿<Window x:Class="AlgorithmTrainer.View.ResultaatWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AlgorithmTrainer.View"
+        mc:Ignorable="d"
+        Background="{StaticResource Background}"
+        DataContext="{Binding Source={StaticResource mainViewModelLocator}, Path=ResultaatWindowViewModel}"
+        Title="Results" MinHeight="585" MinWidth="900" MaxHeight="585" MaxWidth="900" Icon="/AlgorithmTrainer;component/images/RubiksIcon.png" WindowStartupLocation="CenterScreen">
+    
+    <Window.Resources>
+        <!--Gaat niet in dictionary door de staticResource mainViewModelLocator-->
+        <DataTemplate x:Key="AlgorithmsComboboxItemTemplate">
+            <StackPanel Orientation="Horizontal">
+                <!--afbeelding pad opbouwen die verwijst naar de debug map-->
+                <Label Visibility="Collapsed" Name="afbeeldingPath" DataContext="{Binding Source={StaticResource mainViewModelLocator}, Path=MainWindowViewModel}"  
+                       Content="{Binding AfbeeldingPath}"/>
+                <Label Visibility="Collapsed" Name="afbeelding" Content="{Binding Afbeelding}"/>
+                <TextBlock Visibility="Collapsed" Name="imageSource">
+                    <TextBlock.Text>
+                        <MultiBinding StringFormat="{}{0}{1}">
+                            <Binding ElementName="afbeeldingPath" Path="Content" />
+                            <Binding ElementName="afbeelding" Path="Content" />
+                        </MultiBinding>
+                    </TextBlock.Text>
+                </TextBlock>
+                <TextBlock Name="ollId" Text="{Binding Id}"  TextAlignment="Center"  HorizontalAlignment="Center" VerticalAlignment="Center" Margin="90,0,10,0" Width="20" />
+                <Image Source="{Binding Text, ElementName=imageSource}"  MaxHeight="40" MaxWidth=" 40"/>
+            </StackPanel>
+        </DataTemplate>
+    </Window.Resources>
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="175"></ColumnDefinition>
+            <ColumnDefinition Width="175"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <ListView Grid.Column="0" ItemsSource="{Binding Datums}" SelectedItem="{Binding SelectedDatum}" Style="{StaticResource ListBoxSmall}" ItemContainerStyle="{StaticResource ListboxItemSmall}" Width="160">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="158"></ColumnDefinition>
+                            <ColumnDefinition Width="68"></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Grid.Column="0" Text="{Binding Datum, StringFormat=d,ConverterCulture=nl-BE}" Style="{StaticResource TextBlockSmall}" />
+                    </Grid>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <ListView Grid.Column="1" ItemsSource="{Binding ResultatenOpDatum}" SelectedItem="{Binding SelectedResultaat}" Style="{StaticResource ListBoxSmall}" ItemContainerStyle="{StaticResource ListboxItemSmall}" Width="160" >
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="88"></ColumnDefinition>
+                            <ColumnDefinition Width="68"></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Grid.Column="0" Text="{Binding Datum, StringFormat=\{0:HH:mm:ssu\},ConverterCulture=nl-BE}" Style="{StaticResource TextBlockSmall}" />
+                        <TextBlock Grid.Column="1" Text="{Binding Tijd, StringFormat=' {0} sec.'}"  Style="{StaticResource TextBlockSmall}" />
+                    </Grid>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <Grid Grid.Column="2" Margin="50">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto" ></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition Height="auto" ></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition Height="20"></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="150"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <TextBlock Grid.Row="0" Text="Result:" Style="{StaticResource TextBlockLarge}" Margin="0,-5,0,0"/>
+            <TextBlock Grid.Row="1" Text="Date:" Style="{StaticResource TextBlockLarge}" />
+            <TextBlock Grid.Row="2" Text="Time:" Style="{StaticResource TextBlockLarge}" />
+            <TextBlock Grid.Row="3" Text="OLL:" Style="{StaticResource TextBlockLarge}" Height="40" Margin="0,20,0,0"/>
+
+            <TextBlock Grid.Row="0" Grid.Column="1" Text="{Binding SelectedResultaat.Id}" Style="{StaticResource TextBlockSmall}" Margin="2,0,0,0"/>
+            <TextBox Grid.Row="1" Grid.Column="1" Text="{Binding SelectedResultaat.Datum,ConverterCulture=nl-BE}" Style="{StaticResource TextBoxSmall}"/>
+            <TextBox Grid.Row="2" Grid.Column="1" Text="{Binding SelectedResultaat.Tijd}" Style="{StaticResource TextBoxSmall}" />
+
+            <ComboBox Grid.Row="3"  Grid.Column="1" ItemsSource="{Binding Algorithms}" 
+                SelectedItem="{Binding SelectedAlgorithm}"
+                ItemTemplate="{StaticResource AlgorithmsComboboxItemTemplate}" ItemContainerStyle="{StaticResource ComboBoxItem}" Style="{StaticResource ComboBox}" />
+
+            <StackPanel Orientation="Horizontal" Grid.Row="5" Grid.ColumnSpan="2">
+                <Button Content="Save"  Command="{Binding WijzigResultaatCommand}" Style="{StaticResource ButtonSmall}"/>
+                <Button Content="Add new"  Command="{Binding VoegResultaatToeCommand}" Style="{StaticResource ButtonSmall}"/>
+                <Button Content="Delete"  Command="{Binding DeleteResultaatCommand}" Style="{StaticResource ButtonSmall}" IsEnabled="{Binding DeleteButtonEnabled}"/>
+                <Button Content="Back" Command="{Binding ExitCommand}" Style="{StaticResource ButtonSmallBack}"/>
+            </StackPanel>
+        </Grid>
+
+    </Grid>
+</Window>
